@@ -12,3 +12,14 @@ printarray (secondarray,5);
 return 0;
 }
 
+
+output is:
+5 10
+2 4 6 8 10
+
+The output is as above for we are using a for loop that sets n to 0 each time you call print array. 
+Print array will print the length of any array that you pass it as long as length is less than or equal to the size of the array.
+After we set the length of the first array to two the output was the first two elements (5,10) of the first array.
+We then set the length of the second array to five and the output was the first five elements (2,4,6,8,10) of the second array.
+
+
