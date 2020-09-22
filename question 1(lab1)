@@ -1,0 +1,20 @@
+#include<iostream> 
+using namespace std; 
+int main ()
+
+{ 	
+char a = 700; 	
+char b = -129; 	
+char c = +200; 	
+short e =66000; 
+short f = -32769; 
+short g = + 40000; 	
+int h = 4500000000; 	
+int i = +2147483650; 	
+int j = -2147483655;
+cout<<a<<"\n"<<b<<"\n"<<c<<"\n"<<e<<"\n"<<f<<"\n"<<g<<"\n"<<h<<"\n"<<i<<"\n"<<j<<"\n"; 
+
+return 0;
+
+
+}
